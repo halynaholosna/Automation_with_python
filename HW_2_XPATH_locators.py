@@ -1,8 +1,8 @@
 """
 Home Work 2: Practice with XPath
 
-XPATH standard $x("tag[@attribute='attr_value']")
-XPATH with few attributes $x("tag[@attribute1='attr_value1' and @attribute2='attr_value2']")
+XPATH standard $x("//tag[@attribute='attr_value']")
+XPATH with few attributes $x("//tag[@attribute1='attr_value1' and @attribute2='attr_value2']")
 XPATH with contains $x("//tag[contains(@class,'part_of_attr_value')]")
 XPATH with text $x("//tag[text()='text_value']")
 XPATH for editor //tag[@attribute='attr_value']

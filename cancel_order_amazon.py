@@ -3,7 +3,7 @@ Test Case:
 User can search for solutions of Cancelling an order on Amazon
 1. Open Amazon Help page https://www.amazon.com/gp/help/customer/display.html
 2. Use “Find more solutions” field and search for Cancel order:
-3. Click Go ot hit Enter button
+3. Click Go or hit Enter button
 4. Verify that ‘Cancel Items or Orders’ text is present
 """
 
